@@ -1,5 +1,5 @@
 using ACME.LearningCenterPlatform.API.Publishing.Domain.Model.Entities;
-using ACME.LearningCenterPlatform.API.Publishing.Domain.Repostiories;
+using ACME.LearningCenterPlatform.API.Publishing.Domain.Repositories;
 using ACME.LearningCenterPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration;
 using ACME.LearningCenterPlatform.API.Shared.Infrastructure.Persistence.EFC.Repositories;
 
